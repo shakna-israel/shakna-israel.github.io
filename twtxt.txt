@@ -2,5 +2,5 @@
 ---
 
 {% for post in site.posts %}
-{{ post.date }} {{ post.content }}
+{{ post.isodate }} {{ post.content }}
 {% endfor %}
