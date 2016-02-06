@@ -1,5 +1,6 @@
 ---
 permalink: /twtxt.txt
+layput: none
 ---
 
 {% for post in site.posts %}
