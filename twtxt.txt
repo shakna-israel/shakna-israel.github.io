@@ -1,4 +1,5 @@
 ---
+permalink: /twtxt.txt
 ---
 
 {% for post in site.posts %}
